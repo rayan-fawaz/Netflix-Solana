@@ -61,7 +61,7 @@ Deploy to Vercel with one click or any Node.js hosting provider.
 
 #Live View
 
-view it live at Netflixsolana.com
+view it live at [Visit Netflix Solana](https://netflixsolana.com)
 
 ## 📝 License
 
