@@ -20,7 +20,7 @@ A Netflix-style streaming platform for Solana meme coins. Discover, track, and t
 ## 📦 Quick Start
 
 ```shellscript
-git clone https://github.com/rayan-fawaz/NetflixSolana
+git clone https://github.com/rayan-fawaz/Netflix-Solana
 cd netflix-fun
 npm install
 npm run dev
@@ -58,6 +58,10 @@ utils/                 # Helper functions
 ## 🚀 Deploy
 
 Deploy to Vercel with one click or any Node.js hosting provider.
+
+#Live View
+
+view it live at Netflixsolana.com
 
 ## 📝 License
 
